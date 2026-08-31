@@ -26,6 +26,12 @@ mig15-wind-tunnel-test/
 
 ## Status
 Testing and data reduction complete.
+## Results
+Tested a 3D-printed MiG-15 scale model on a 6-component balance at 5 m/s across AoA 0°–15°:
+- **Lift:** near-negligible, ranging from −0.08 N to ~0 N
+- **Drag:** decreased from 0.1 N to 0.04 N with increasing AoA
+
+These low magnitudes are consistent with the limited dynamic pressure at 5 m/s test speed combined with the model's light, small-scale construction — expected behavior rather than a test anomaly.
 
 ## Author
 Ameera — B.Tech Aerospace Engineering, ADYPU
